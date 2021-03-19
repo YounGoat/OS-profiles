@@ -72,3 +72,5 @@ alias ls="ls -G"
 # Command Alias
 alias cdw='cd ~/WORKSPACE'
 alias ll='ls -l'
+alias cnpm="npm --registry=http://registry.npm.taobao.org/"
+alias cnpmi="sudo npm install --global --registry=http://registry.npm.taobao.org/"
